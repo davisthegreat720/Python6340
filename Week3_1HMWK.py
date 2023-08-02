@@ -1,3 +1,4 @@
-for x in range(4):
-    print(range(5))
 
+#1b
+for x in range(20,100,5):
+    print('*',end='')
